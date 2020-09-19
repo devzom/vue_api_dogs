@@ -1,5 +1,9 @@
 # vue-dogs-api
 
+Project prepared for job application/review.
+
+Create aa Vue app which fetch API data from dogs DB and show photos  + info. Additionaly make a function to randomize searching for a next race of dog.
+
 ## Project setup
 ```
 npm install
